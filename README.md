@@ -3,8 +3,9 @@
 Welcome to the *Registration Form* project! This project is a web-based registration form created using HTML, CSS, Node.js, and MongoDB.
 
 ## Demo
-
+![Alt text](https://app.gemoo.com/share/image-annotation/675023788610064384?codeId=Mpm2G12Gmleym&origin=imageurlgenerator&card=675023785774694400)
 You can view the live demo of the project [here](https://im-prathamesh-dev.github.io/registration_form/).
+
 
 ## Table of Contents
 
