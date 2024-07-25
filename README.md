@@ -3,19 +3,11 @@
 Welcome to the *Registration Form* project! This project is a web-based registration form created using HTML, CSS, Node.js, and MongoDB.
 
 ## Demo
-![Screenshot 2024-07-25 143506](https://github.com/user-attachments/assets/ad2b3fa4-e6b1-4c98-9797-ff3109bfba69)
-
 ![Screenshot 2024-07-25 143229](https://github.com/user-attachments/assets/7227d827-295f-40c5-ad30-638cbc7dfa8f)
-
-
-![Screenshot 2024-07-25 143215](https://github.com/user-attachments/assets/2ea6e159-5f6d-4b0e-9f8a-bce3959513e5)
-
-
-![Screenshot 2024-07-25 143224](https://github.com/user-attachments/assets/85dad678-e56d-4af8-86fb-51888d70eaf8)
-
-
 ![Screenshot 2024-07-25 142059](https://github.com/user-attachments/assets/e6821192-ad72-4b6f-9441-c9bffcef1124)
-
+![Screenshot 2024-07-25 143215](https://github.com/user-attachments/assets/2ea6e159-5f6d-4b0e-9f8a-bce3959513e5)
+![Screenshot 2024-07-25 143506](https://github.com/user-attachments/assets/ad2b3fa4-e6b1-4c98-9797-ff3109bfba69)
+![Screenshot 2024-07-25 143224](https://github.com/user-attachments/assets/85dad678-e56d-4af8-86fb-51888d70eaf8)
 You can view the live demo of the project [here](https://im-prathamesh-dev.github.io/registration_form/).
 
 
