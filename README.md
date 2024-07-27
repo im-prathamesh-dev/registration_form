@@ -82,6 +82,6 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
+## Contact
 
-Feel free to customize this README.md file to better suit your project's specifics and any additional details you want to include!
+For questions or inquiries, please contact us at [prathamesh0755@gmail.com](mailto:prathamesh0755@gmail.com).
